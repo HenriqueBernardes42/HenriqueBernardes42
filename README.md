@@ -1,7 +1,6 @@
 ### Olá mundo👋
 
-- 🔭 Atualmente fazendo os projetos listados no repositório https://github.com/florinpop17/app-ideas;
-- 🌱 Atualmente focando em Javascript (Vanila);
+- cadete da 42sp 🚀🚀
 - 💬 Pergunte-me sobre a vida, o universo e tudo mais.
 
 <div align="center">
